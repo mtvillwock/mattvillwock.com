@@ -1,15 +1,39 @@
-# [overreacted.io](https://overreacted.io/)
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<!-- <p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p> -->
+<h1 align="center">
+  mattvillwock.com
+</h1>
 
-My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
+My personal blog. An unabashed fork of [overreacted.io](https://github.com/gaearon/overreacted.io)... which is forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog).
 
-To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
+## 🚀 To run locally
 
-## Contributing Translations
+1.  **Clone locally.**
 
-You can translate any article on the website into your language!
+    Use git CLI to clone this repo.
 
-Add a Markdown file with the translation to the corresponding article folder. For example `index.fr.md` in `src/pages/optimized-for-change/`.
+    ```shell
+    # clones the repo
+    git clone git@github.com:mtvillwock/mattvillwock.com.git
+    ```
 
-If you're the first one to translate a post to your language, you'll need to add it to to the list in `./i18n.js`. See [this PR](https://github.com/gaearon/overreacted.io/pull/159) for an example. If your language needs special font characters, add it to the appropriate place in [this list](https://github.com/gaearon/overreacted.io/blob/5de6c128f798506a54a1a34c32cd5446beecc272/src/utils/i18n.js#L15).
+1.  **Install dependencies.**
 
-**Please don't send translations for the Russian language — I will be translating into it myself when I find time.**
+    Navigate into the cloned site’s directory and install dependencies.
+
+    ```shell
+    cd mattvillwock.com/
+    npm install # Don't have Node.js or NPM? https://www.npmjs.com/get-npm
+    ```
+
+1.  **Run the app!**
+
+    ```shell
+    npm start
+    ```
+
+    The site is now running on [http://localhost:8000](http://localhost:8000/)!
