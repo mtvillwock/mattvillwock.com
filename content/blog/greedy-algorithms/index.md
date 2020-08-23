@@ -12,9 +12,11 @@ consider greed, and everything to do with taking a chance on a solution
 that might be incredibly efficient if everything goes well.
 
 In a way, it reminds me of how the Houston Rockets play basketball.
-Could they feasible have James Harden shoot a 3-pointer constantly and
-have it turn out well?
+Could they theoretically have James Harden shoot 3-pointers every time they have
+possession and have it turn out well?
+
 Sure, maybe.
+
 But there are edge cases, like when really good defenders guard him.
 
 >Nobody can defend his step back 3 though... ;)
