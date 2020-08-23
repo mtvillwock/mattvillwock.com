@@ -1,6 +1,6 @@
 ---
-title: Greedy Algorithms
-date: "2020-05-01T23:34:03.284Z"
+title: "Draft: Greedy Algorithms"
+date: "2020-08-22"
 description: "In which we learn how greed can be good...for problem solving"
 ---
 
@@ -11,7 +11,7 @@ turns out, the adjective "greedy" has nothing to do what one might
 consider greed, and everything to do with taking a chance on a solution
 that might be incredibly efficient if everything goes well.
 
-In a way, it reminds me of how the Houston Rockets play basketball. 
+In a way, it reminds me of how the Houston Rockets play basketball.
 Could they feasible have James Harden shoot a 3-pointer constantly and
 have it turn out well?
 Sure, maybe.
@@ -24,7 +24,7 @@ In reality, a greedy algorithm is more about:
 - proving that that approach is safe to use,
 - using that same approach to solve any remaining subproblem(s).
 
-This, of course, can be problematic if you don't  verify that the chosen 
+This, of course, can be problematic if you don't  verify that the chosen
 approach is actually safe to use, e.g., that it won't break due to edge cases.
 
 This differs from brute force algorithms, in which each and every
